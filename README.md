@@ -10,6 +10,6 @@ versatile (suited for reflow oven or ceramic kiln) by adding several features:
 * For ceramic kilns, dynamic calculation of end temperature based on heat rate  
 
 This fork intends to add the following functions
-* Support for MAX31865 RTD converter chip for PT100/PT1000 support  
+* Support for MAX31865 RTD converter chip for PT100/PT1000 usage  
 
-This software is now in active use controlling my electric kiln and is working reliably. The added options make it suitable for a much wider range of thermal controllers than the original. 
+
